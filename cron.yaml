@@ -1,0 +1,5 @@
+cron:
+- description: repeated tweet test
+  url: /tweet_super
+  schedule: every 10 mins
+  timezone: America/Chicago
