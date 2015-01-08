@@ -74,7 +74,7 @@ BOT_HTML = """\
                       <p><img style="width:200px" src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Placeholder_couple_superhero.png" class="img-circle pull-right"> </p>
                       <div class="clearfix"></div>
                       <hr>
-                      <p style="text-indent:50px;">#ActsOfSuperness is a Twitter Game I wrote to encourage people to do good things for each other.  You get points when you tweet about yourself doing something good for humanity with #ActsOfSuperness.</p>  <p style="text-indent:50px"> You'll get tweets showing you're superhero rankings based on how super your actions are.  Eventually, we'll all work up to Batman, and then all the world's probelms will be solved.</p>
+                      <p style="text-indent:50px;">#ActsOfSuperness is a Twitter Game I wrote to encourage people to do good things for each other.  You get points when you tweet everyday acts of kindness and decency with #ActsOfSuperness.</p>  <p style="text-indent:50px"> You'll get tweets showing your superhero rankings based on how "super" your actions are.  Eventually, we'll all work up to Batman, and then all the world's problems will be solved.</p>
                       <hr>
                     </div><!--/panel-body-->
                  </div><!--/panel-->
@@ -111,7 +111,7 @@ BOT_HTML = """\
           </ol>
           <p>The game will find your tweet and award you points for it.  The more people retweet your #ActsOfSuperness, the more points you'll get. As you get more points, you'll advance through the superhero rankings. So go perform some #ActsOfSuperness.
           </p>
-          <p>The game updates roughly every 10 minutes so be patient.  
+          <p>The game updates roughly every 30 minutes so just be patient.  Also the game relies on tweets being returned by Twitter's search index. So if your tweets aren't registering here, it's because <a href="https://twittercommunity.com/t/search-api-tweets-from-not-showing-up-on-search-results/25137/2">Twitter isn't indexing your tweets</a>. 
           </p>
           <hr>
           
